@@ -5,7 +5,7 @@ Solution to port a python program to java.
 
 
 
-##An example of the output should be:
+## An example of the output should be:
 
 [Budgeting System]
 Enter your name: Bob
