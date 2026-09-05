@@ -1,4 +1,4 @@
-### lab1
+# Lab 1
 Solution to port a python program to java. 
 
 
